@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: Github pages testing
 description: This is for testing github pages
+markdown: kramdown
